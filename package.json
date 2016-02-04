@@ -7,7 +7,9 @@
     "email": "davidsonfellipe@gmail.com",
     "url": "fellipe.com"
   },
-  "bin": "cli.js",
+  "bin": {
+    "keepfast": "cli.js"
+  },
   "preferGlobal": true,
   "engines": {
     "node": ">=0.10.0"
