@@ -1,0 +1,41 @@
+{
+  "name": "keepfast-cli",
+  "version": "0.0.1",
+  "description": "Keepfast in your CLI",
+  "author": {
+    "name": "Davidson Fellipe",
+    "email": "davidsonfellipe@gmail.com",
+    "url": "fellipe.com"
+  },
+  "bin": "cli.js",
+  "preferGlobal": true,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": "keepfast/keepfast-cli",
+  "scripts": {
+    "test": ""
+  },
+  "files": [
+    "cli.js",
+    "index.js",
+    "lib"
+  ],
+  "keywords": [
+    "speed",
+    "wpo",
+    "keepfast",
+    "insights",
+    "performance",
+    "measure",
+    "optimize"
+  ],
+  "dependencies": {
+    "bluebird": "^3.2.1",
+    "chalk": "^1.1.1",
+    "keepfast-contrib-phantomas": "^1.0.3",
+    "meow": "^3.7.0",
+    "update-notifier": "^0.5.0"
+  },
+  "devDependencies": {}
+}
