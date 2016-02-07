@@ -1,4 +1,4 @@
-> Keepfast in your command line with reporting
+Keepfast in your command line with reporting
 
 ## Install
 ```
