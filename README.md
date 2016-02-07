@@ -1,4 +1,7 @@
-Keepfast in your command line with reporting
+Keepfast CLI [![npm version](https://badge.fury.io/js/keepfast-cli.svg)](https://badge.fury.io/js/keepfast-cli)
+=========
+
+Keepfast in your command line with reporting. 
 
 ## Install
 ```
