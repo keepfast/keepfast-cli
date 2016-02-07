@@ -30,7 +30,9 @@
     "insights",
     "performance",
     "measure",
-    "optimize"
+    "optimize",
+    "website",
+    "pagespeed"
   ],
   "dependencies": {
     "bluebird": "^3.2.1",
