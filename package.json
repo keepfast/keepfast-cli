@@ -36,7 +36,7 @@
     "bluebird": "^3.2.1",
     "chalk": "^1.1.1",
     "keepfast-contrib-phantomas": "^1.0.6",
-    "keepfast-contrib-psi": "^1.0.2",
+    "keepfast-contrib-psi": "^1.0.3",
     "meow": "^3.7.0",
     "update-notifier": "^0.5.0"
   },
