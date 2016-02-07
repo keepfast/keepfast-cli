@@ -1,6 +1,3 @@
-Keepfast CLI
-=========
-
 Keepfast in your command line with reporting. 
 
  [![npm version](https://badge.fury.io/js/keepfast-cli.svg)](https://badge.fury.io/js/keepfast-cli)
