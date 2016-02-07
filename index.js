@@ -1,5 +1,5 @@
 var Promise = require('bluebird');
-var engine = require('./lib/');
+var engine = require('./lib/engine');
 
 var tests = {
   plugins: [
@@ -8,4 +8,4 @@ var tests = {
   profiles: []
 };
 
-engine.runURL(tests);
+engine.runURL(tests, 'http://webcomponentsweekly.me/');
