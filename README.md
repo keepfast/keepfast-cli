@@ -5,7 +5,7 @@ Keepfast in your command line with reporting.
 
 ## Install
 ```
-$ npm i keepfast-cli --save
+$ npm i keepfast-cli -g
 ```
 
 ## Run
