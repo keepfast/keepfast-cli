@@ -14,7 +14,7 @@ $ npm i keepfast-cli -g
 $ keepfast https://www.youtube.com/
 ```
 
-![](https://cloud.githubusercontent.com/assets/381179/12871353/21ab9ffe-cd44-11e5-9b60-6570e23b1d09.png)
+![](https://cloud.githubusercontent.com/assets/381179/12879698/4e2eecea-ce05-11e5-97f4-42fecb842316.png)
 
 ## Dependencies
 
