@@ -39,6 +39,7 @@
     "chalk": "^1.1.1",
     "keepfast-contrib-phantomas": "^1.0.8",
     "keepfast-contrib-psi": "^1.0.4",
+    "keepfast-contrib-yslow": "0.0.1",
     "meow": "^3.7.0",
     "update-notifier": "^0.5.0"
   },
