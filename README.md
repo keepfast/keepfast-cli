@@ -11,7 +11,7 @@ $ npm i keepfast-cli -g
 
 ## Run
 ```shell
-$ keepfast https://www.youtube.com/
+$ keepfast https://www.fellipe.com/
 ```
 
 ![](https://cloud.githubusercontent.com/assets/381179/12879698/4e2eecea-ce05-11e5-97f4-42fecb842316.png)
