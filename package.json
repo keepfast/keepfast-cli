@@ -37,6 +37,7 @@
   "dependencies": {
     "bluebird": "^3.2.1",
     "chalk": "^1.1.1",
+    "httpinvoke": "^1.4.0",
     "keepfast-contrib-phantomas": "^1.0.9",
     "keepfast-contrib-psi": "^1.0.7",
     "keepfast-contrib-yslow": "0.0.3",
