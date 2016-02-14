@@ -2,7 +2,9 @@
 
 Keepfast in your command line with reporting.
 
+
  [![npm version](https://badge.fury.io/js/keepfast-cli.svg)](https://badge.fury.io/js/keepfast-cli)
+ [![npm version](https://david-dm.org/keepfast/keepfast-cli.svg)](https://david-dm.org/keepfast/keepfast-cli.svg)
 
 ## Install
 ```
