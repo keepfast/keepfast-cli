@@ -3,11 +3,10 @@ var engine = require('./lib/engine');
 
 var tests = {
   plugins: [
-    'keepfast-contrib-yslow',
     'keepfast-contrib-psi',
     'keepfast-contrib-phantomas'
   ],
-  profiles: []
+  profiles: [],
 };
 
 engine.runURL(tests, 'http://fellipe.com/');

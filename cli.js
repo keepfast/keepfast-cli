@@ -26,8 +26,7 @@ if (!cli.input[0]) {
 var tests = {
   plugins: [
     'keepfast-contrib-phantomas',
-    'keepfast-contrib-psi',
-    'keepfast-contrib-yslow'
+    'keepfast-contrib-psi'
   ],
   profiles: []
 };
