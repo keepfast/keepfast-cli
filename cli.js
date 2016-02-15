@@ -19,8 +19,7 @@ updateNotifier({
 }).notify();
 
 if (!cli.input[0]) {
-  console.error('Please supply a valid URL');
-  process.exit(1);
+  throw new Error('Please supply a valid URL');
 }
 
 var tests = {
