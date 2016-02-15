@@ -5,6 +5,7 @@ Keepfast in your command line with reporting.
 
  [![npm version](https://badge.fury.io/js/keepfast-cli.svg)](https://badge.fury.io/js/keepfast-cli)
  [![npm version](https://david-dm.org/keepfast/keepfast-cli.svg)](https://david-dm.org/keepfast/keepfast-cli.svg)
+ [![Code Climate](https://codeclimate.com/github/keepfast/keepfast-cli/badges/gpa.svg)](https://codeclimate.com/github/keepfast/keepfast-cli)
 
 ## Install
 ```
@@ -16,7 +17,8 @@ $ npm i keepfast-cli -g
 $ keepfast https://www.fellipe.com/
 ```
 
-![](https://cloud.githubusercontent.com/assets/381179/12879698/4e2eecea-ce05-11e5-97f4-42fecb842316.png)
+![](https://cloud.githubusercontent.com/assets/381179/13036477/53a5a516-d336-11e5-93ee-91c61fabdd41.png)
+
 
 ## Dependencies
 
