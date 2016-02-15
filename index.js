@@ -6,7 +6,7 @@ var tests = {
     'keepfast-contrib-psi',
     'keepfast-contrib-phantomas'
   ],
-  profiles: [],
+  profiles: []
 };
 
 engine.runURL(tests, 'http://fellipe.com/');

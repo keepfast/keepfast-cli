@@ -11,7 +11,7 @@ var cli = meow([
   '',
   'Example',
   '  $ keepfast fellipe.com',
-  '',
+  ''
 ]);
 
 updateNotifier({
