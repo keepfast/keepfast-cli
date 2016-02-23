@@ -9,12 +9,12 @@ Keepfast in your command line with reporting, this tool helps front-end develope
  [![Code Climate](https://codeclimate.com/github/keepfast/keepfast-cli/badges/gpa.svg)](https://codeclimate.com/github/keepfast/keepfast-cli)
  [![Issue Count](https://codeclimate.com/github/keepfast/keepfast-cli/badges/issue_count.svg)](https://codeclimate.com/github/keepfast/keepfast-cli)
 
-## Install
+## Install 💾
 ```
 $ npm i keepfast-cli -g
 ```
 
-## Run
+## Run 🚀
 ```shell
 $ keepfast http://www.fellipe.com/
 ```
@@ -22,12 +22,12 @@ $ keepfast http://www.fellipe.com/
 ![](https://cloud.githubusercontent.com/assets/381179/13244238/b497b286-d9d2-11e5-858e-a7c3d73790ec.png)
 
 
-## Dependencies
+## Dependencies ✔︎
 
 [![NPM](https://nodei.co/npm/keepfast-cli.png)](https://npmjs.org/package/keepfast-cli)
 
 
-## Contributing
+## Contributing 👣
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-awesome-new-feature`
