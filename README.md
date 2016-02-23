@@ -1,4 +1,4 @@
-#Keepfast CLI
+#Keepfast CLI 👾
 
 Keepfast in your command line with reporting, this tool helps front-end developers to keep a good performance scores.
 
