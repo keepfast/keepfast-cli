@@ -25,3 +25,12 @@ $ keepfast http://www.fellipe.com/
 ## Dependencies
 
 [![NPM](https://nodei.co/npm/keepfast-cli.png)](https://npmjs.org/package/keepfast-cli)
+
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-awesome-new-feature`
+3. Commit your changes: `git commit -m 'Add some awesome feature'`
+4. Push to the branch: `git push origin my-awesome-new-feature`
+5. Submit a pull request :]
