@@ -34,3 +34,8 @@ $ keepfast http://www.fellipe.com/
 3. Commit your changes: `git commit -m 'Add some awesome feature'`
 4. Push to the branch: `git push origin my-awesome-new-feature`
 5. Submit a pull request :]
+
+
+## License 📖
+
+Code is under [MIT](http://davidsonfellipe.mit-license.org) license
