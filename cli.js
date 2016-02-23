@@ -1,5 +1,12 @@
-#!/usr/bin/env node
+/*
+ * keepfast-cli
+ *
+ * Copyright (c) 2016 Davidson Fellipe, contributors
+ * Licensed under the MIT license.
+ */
+
 'use strict';
+
 var meow = require('meow');
 var updateNotifier = require('update-notifier');
 var Promise = require('bluebird');

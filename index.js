@@ -1,4 +1,12 @@
-var Promise = require('bluebird');
+/*
+ * keepfast-cli
+ *
+ * Copyright (c) 2016 Davidson Fellipe, contributors
+ * Licensed under the MIT license.
+ */
+
+'use strict';
+
 var engine = require('./lib/engine');
 
 var tests = {
