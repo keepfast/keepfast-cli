@@ -19,7 +19,7 @@ $ npm i keepfast-cli -g
 $ keepfast http://www.fellipe.com/
 ```
 
-![](https://cloud.githubusercontent.com/assets/381179/13036477/53a5a516-d336-11e5-93ee-91c61fabdd41.png)
+![](https://cloud.githubusercontent.com/assets/381179/13244238/b497b286-d9d2-11e5-858e-a7c3d73790ec.png)
 
 
 ## Dependencies
