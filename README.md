@@ -1,6 +1,7 @@
 #Keepfast CLI
 
-Keepfast in your command line with reporting.
+Keepfast in your command line with reporting, this tool helps front-end developers to keep a good performance scores.
+
 
 
  [![npm version](https://badge.fury.io/js/keepfast-cli.svg)](https://badge.fury.io/js/keepfast-cli)
