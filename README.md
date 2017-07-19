@@ -40,6 +40,3 @@ $ keepfast http://www.fellipe.com/
 ## License 📖
 
 Code is under [MIT](http://davidsonfellipe.mit-license.org) license
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fkeepfast%2Fkeepfast-cli.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fkeepfast%2Fkeepfast-cli?ref=badge_large)
