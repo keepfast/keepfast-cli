@@ -8,7 +8,6 @@ Keepfast in your command line with reporting, this tool helps front-end develope
  [![npm](https://img.shields.io/npm/dt/keepfast-cli.svg)](https://www.npmjs.com/package/keepfast-cli)
  [![npm version](https://david-dm.org/keepfast/keepfast-cli.svg)](https://david-dm.org/keepfast/keepfast-cli.svg)
  [![Code Climate](https://codeclimate.com/github/keepfast/keepfast-cli/badges/gpa.svg)](https://codeclimate.com/github/keepfast/keepfast-cli)
- [![Issue Count](https://codeclimate.com/github/keepfast/keepfast-cli/badges/issue_count.svg)](https://github.com/keepfast/keepfast-cli/issues)
  [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
 
 ## Install 💾
